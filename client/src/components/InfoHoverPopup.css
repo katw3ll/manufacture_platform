@@ -1,0 +1,31 @@
+.popup-info {
+  visibility: hidden;
+  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  /* height: 80px; */
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #fff;
+  box-shadow: 3px 4px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  padding: 10px 30px;
+  transition: .1s;
+  z-index: 20;
+}
+
+.popup_visible {
+  visibility: visible;
+  opacity: 1;
+}
+.popup__parameter-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}

@@ -1,0 +1,12 @@
+Django==3.2
+django-money==2.1.1
+django-colorfield==0.7.0
+djangorestframework==3.13.1
+requests==2.25.1
+openpyxl
+elementpath==2.5.2
+djangorestframework-simplejwt
+djoser
+django-cors-headers==3.12.0
+qrcode
+transitions

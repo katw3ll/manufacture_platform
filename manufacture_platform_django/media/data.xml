@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders_Delivery Program="AluRoll" Version="36" SubVersion="0" Sender="Test" DateTime="1805220515" FileType="export\import" Name="AluRoll_36_0_Test_1805220515_export\import">
+    <Orders>
+        <Orders_Rec CONTRACT="null" INSTALL="0" COMBINED_SYSTEM_ID="0" COMBINED_SYSTEM_BEGIN_CALC="0" ORDER_TYPE="0" MAKING_INFO="" NET_CALCULATION="0" ORDERNO="4512568">
+            <Rolletes>
+                <Rolletes_Rec PROFILE="1236" ROLTYPEID="5" WIDTH="2,25" HEIGHT="2,5" OK_PRODUCE="0" COM_INFO="null" ARM_LOC="1" END_GEAR="0" WALL_WIDTH="0" LOOP_LOC="0" EXT_MONTAGE="0" AIR_PROF="0" VIEW_PROF="0" LEAD_TYPE="1" OPERT_WIDTH="2,25" OPERT_HEIGHT="2,5" CNT="2" SL_TYPE="1" INSTALL_TYPE="0" OK_FINANSIST="0" COMB_ID="null" ANTI_BREAK="0" ROLNO_IN_ORDER="null" COUNT_DELETED_LAMELLAS="0" ADD_EXTRUSION_LAMELLA="0" CALC_AUTOMATICS="0" END_PROFILE_IN_OPERT="0" AUTO_CHOICE_CAPSULE="1" COATING_TYPE_ID="1" BASKET_TYPE_ID="1" SERIES_ID="0" LOCKING_SYSTEM_ID="3" LOCK_DEVICE_INSTALL_HEIGHT_ID="1" CALCULATION_TYPE_ID="0" REPAIRED_ROLL_PRODUCT_ID="null" ROLL_TYPE_ID="1" REPAIR_ID="0" MOSQUITO_NET="0" SENSITIVE_BORDER="0" EL_DRIVE_CAPACITY_RESERVE="30" ROLNO="6886747" PROFILE_CODE_="1033301" SHAFT_="RT60x0,6" WIND_ZONE_DESCRIPTION_="" BASKET_="SB45/205 бел.(ш)" GEAR_="GRM66x27IE бел.(ш)" DRIVE_="Пружина 6SIM62/11 Справа" DRIVE_ARTNUMBER_="6SIM62/11" CAPACITY_="null" WIND_SPEED_="null" BLOCK_="RL" PROFILE_="AEG56 бел.(ш)" PRICE_NDS_="null" NAME_="Жалюзи-роллета" PROFILE_COLOR_="101" COLOR_="101" ARTNUMBER_="ЖР.ПИМ 2250x2500" ID_NAME_BY_="Жалюзи-роллета" ID_ARTNUMBER_BY_="ЖР.AEG56.ПИМ ТУ РБ 37364010.001-95" ID_NAME_BY_WITHOUT_P_="Жалюзи-роллета" ID_ARTNUMBER_BY_WITHOUT_P_="ЖР.AEG56.ПИМ ТУ РБ 37364010.001-95" ID_P_BY_="" ID_NAME_RU_="Жалюзи-роллета металлическая" ID_ARTNUMBER_RU_="ЖР AEG56 А РП ГОСТ Р 52502-2012" ID_P_RU_="" ID_NAME_UA_="Жалюзі-ролета" ID_ARTNUMBER_UA_="ЖР.AEG56.ПІМ ТУ У В.2.6-25.1-35234409-003:2016" PURCHASE_PRICE_="112243,95" COST_="152884,27" DISCOUNT_="0" EXTRA_CHARGE_="0" SALE_PRICE_="152884,27">
+                    <Roll_Objects>
+                        <Roll_Objects_Rec OBJECT="1028" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="16" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="6012" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1266" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="206" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1259" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1475" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1661" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="71" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1650" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="3978" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="30" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1" OBJECT_TYPE="4"/>
+                        <Roll_Objects_Rec OBJECT="6107" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1239" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1871" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="493" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="24" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="63" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="23" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="3" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="419" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="51" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="13" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="200" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="827" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="997" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1166" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="209" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="399" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1158" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1165" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="9" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="128" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="40" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="105" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1001" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="208" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="140" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="817" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="220" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="395" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="9086" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="19" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="544" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1097" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="704" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="47" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="55" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1236" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="617" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="61" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1066" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="9046" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="478" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="23" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1015" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="49" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="943" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="492" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="13" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="45" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="5" OBJECT_TYPE="3"/>
+                        <Roll_Objects_Rec OBJECT="3970" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="9" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1661" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="54" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="9842" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1011" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="45" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="62" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1464" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="26" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1038" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="16" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="134" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="18" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1051" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="537" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="606" OBJECT_TYPE="2"/>
+                    </Roll_Objects>
+                    <Roll_Parts>
+                        <Roll_Parts_Rec PARTNO="1236" CNT="84" SZ="2,17" CODE_="1033301"/>
+                        <Roll_Parts_Rec PARTNO="6107" CNT="2" SZ="2,17" CODE_="304006101"/>
+                        <Roll_Parts_Rec PARTNO="6012" CNT="4" SZ="2,315" CODE_="307024101"/>
+                        <Roll_Parts_Rec PARTNO="606" CNT="2" SZ="2,17" CODE_="1111000"/>
+                        <Roll_Parts_Rec PARTNO="1871" CNT="2" SZ="2,17" CODE_="1080310"/>
+                        <Roll_Parts_Rec PARTNO="419" CNT="2" SZ="2,24" CODE_="1060301"/>
+                        <Roll_Parts_Rec PARTNO="1011" CNT="2" SZ="0" CODE_="1130206"/>
+                        <Roll_Parts_Rec PARTNO="473" CNT="2" SZ="0" CODE_="1110500"/>
+                        <Roll_Parts_Rec PARTNO="9086" CNT="8" SZ="0" CODE_="312037100"/>
+                        <Roll_Parts_Rec PARTNO="833" CNT="2" SZ="0" CODE_="1110300"/>
+                        <Roll_Parts_Rec PARTNO="1015" CNT="2" SZ="0" CODE_="1120501"/>
+                        <Roll_Parts_Rec PARTNO="704" CNT="24" SZ="0" CODE_="1112601"/>
+                        <Roll_Parts_Rec PARTNO="1158" CNT="10" SZ="0" CODE_="1113032"/>
+                        <Roll_Parts_Rec PARTNO="478" CNT="2" SZ="0" CODE_="1031112"/>
+                        <Roll_Parts_Rec PARTNO="9046" CNT="2" SZ="0" CODE_="306219101"/>
+                        <Roll_Parts_Rec PARTNO="1266" CNT="168" SZ="0" CODE_="1033510"/>
+                        <Roll_Parts_Rec PARTNO="617" CNT="10" SZ="0" CODE_="1112400"/>
+                        <Roll_Parts_Rec PARTNO="492" CNT="4" SZ="0" CODE_="1112701"/>
+                    </Roll_Parts>
+                    <Roll_Parts_Cor/>
+                </Rolletes_Rec>
+                <Rolletes_Rec PROFILE="1236" ROLTYPEID="5" WIDTH="1,9" HEIGHT="2,5" OK_PRODUCE="0" COM_INFO="null" ARM_LOC="1" END_GEAR="0" WALL_WIDTH="0" LOOP_LOC="0" EXT_MONTAGE="0" AIR_PROF="0" VIEW_PROF="0" LEAD_TYPE="1" OPERT_WIDTH="1,9" OPERT_HEIGHT="2,5" CNT="3" SL_TYPE="1" INSTALL_TYPE="0" OK_FINANSIST="0" COMB_ID="null" ANTI_BREAK="0" ROLNO_IN_ORDER="null" COUNT_DELETED_LAMELLAS="0" ADD_EXTRUSION_LAMELLA="0" CALC_AUTOMATICS="0" END_PROFILE_IN_OPERT="0" AUTO_CHOICE_CAPSULE="1" COATING_TYPE_ID="1" BASKET_TYPE_ID="1" SERIES_ID="0" LOCKING_SYSTEM_ID="3" LOCK_DEVICE_INSTALL_HEIGHT_ID="1" CALCULATION_TYPE_ID="0" REPAIRED_ROLL_PRODUCT_ID="null" ROLL_TYPE_ID="1" REPAIR_ID="0" MOSQUITO_NET="0" SENSITIVE_BORDER="0" EL_DRIVE_CAPACITY_RESERVE="30" ROLNO="6886748" PROFILE_CODE_="1033301" SHAFT_="RT60x0,6" WIND_ZONE_DESCRIPTION_="" BASKET_="SB45/205 бел.(ш)" GEAR_="GRM66x27IE бел.(ш)" DRIVE_="Пружина 6SIM38/12 Справа" DRIVE_ARTNUMBER_="6SIM38/12" CAPACITY_="null" WIND_SPEED_="null" BLOCK_="RL" PROFILE_="AEG56 бел.(ш)" PRICE_NDS_="null" NAME_="Жалюзи-роллета" PROFILE_COLOR_="101" COLOR_="101" ARTNUMBER_="ЖР.ПИМ 1900x2500" ID_NAME_BY_="Жалюзи-роллета" ID_ARTNUMBER_BY_="ЖР.AEG56.ПИМ ТУ РБ 37364010.001-95" ID_NAME_BY_WITHOUT_P_="Жалюзи-роллета" ID_ARTNUMBER_BY_WITHOUT_P_="ЖР.AEG56.ПИМ ТУ РБ 37364010.001-95" ID_P_BY_="" ID_NAME_RU_="Жалюзи-роллета металлическая" ID_ARTNUMBER_RU_="ЖР AEG56 А РП ГОСТ Р 52502-2012" ID_P_RU_="" ID_NAME_UA_="Жалюзі-ролета" ID_ARTNUMBER_UA_="ЖР.AEG56.ПІМ ТУ У В.2.6-25.1-35234409-003:2016" PURCHASE_PRICE_="145771,4" COST_="198563,9" DISCOUNT_="0" EXTRA_CHARGE_="0" SALE_PRICE_="198563,9">
+                    <Roll_Objects>
+                        <Roll_Objects_Rec OBJECT="1165" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="3978" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="30" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="128" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="544" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1871" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="71" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="399" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1166" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="18" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="3" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="827" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="394" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="220" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="206" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="51" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1" OBJECT_TYPE="4"/>
+                        <Roll_Objects_Rec OBJECT="617" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="6107" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="54" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1066" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="105" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="16" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="943" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="492" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="5" OBJECT_TYPE="3"/>
+                        <Roll_Objects_Rec OBJECT="49" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="13" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="134" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="9086" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="45" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="45" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="606" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="26" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="478" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="140" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="62" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="24" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="537" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1464" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="9842" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="23" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="19" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1259" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="63" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="16" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="9" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="1051" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1097" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1239" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1158" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="200" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="997" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1015" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1038" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1661" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="40" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1661" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="47" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="208" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="9" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="704" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="817" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="1028" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="13" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="55" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="419" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1266" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1010" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1001" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="23" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="493" OBJECT_TYPE="1"/>
+                        <Roll_Objects_Rec OBJECT="3970" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1650" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="1236" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="61" OBJECT_TYPE="5"/>
+                        <Roll_Objects_Rec OBJECT="9046" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="6012" OBJECT_TYPE="2"/>
+                        <Roll_Objects_Rec OBJECT="209" OBJECT_TYPE="0"/>
+                        <Roll_Objects_Rec OBJECT="1475" OBJECT_TYPE="1"/>
+                    </Roll_Objects>
+                    <Roll_Parts>
+                        <Roll_Parts_Rec PARTNO="1236" CNT="126" SZ="1,82" CODE_="1033301"/>
+                        <Roll_Parts_Rec PARTNO="6107" CNT="3" SZ="1,82" CODE_="304006101"/>
+                        <Roll_Parts_Rec PARTNO="6012" CNT="6" SZ="2,315" CODE_="307024101"/>
+                        <Roll_Parts_Rec PARTNO="606" CNT="3" SZ="1,82" CODE_="1111000"/>
+                        <Roll_Parts_Rec PARTNO="1871" CNT="3" SZ="1,82" CODE_="1080310"/>
+                        <Roll_Parts_Rec PARTNO="419" CNT="3" SZ="1,89" CODE_="1060301"/>
+                        <Roll_Parts_Rec PARTNO="1010" CNT="3" SZ="0" CODE_="1130205"/>
+                        <Roll_Parts_Rec PARTNO="473" CNT="3" SZ="0" CODE_="1110500"/>
+                        <Roll_Parts_Rec PARTNO="9086" CNT="12" SZ="0" CODE_="312037100"/>
+                        <Roll_Parts_Rec PARTNO="833" CNT="3" SZ="0" CODE_="1110300"/>
+                        <Roll_Parts_Rec PARTNO="1015" CNT="3" SZ="0" CODE_="1120501"/>
+                        <Roll_Parts_Rec PARTNO="704" CNT="36" SZ="0" CODE_="1112601"/>
+                        <Roll_Parts_Rec PARTNO="1158" CNT="12" SZ="0" CODE_="1113032"/>
+                        <Roll_Parts_Rec PARTNO="478" CNT="3" SZ="0" CODE_="1031112"/>
+                        <Roll_Parts_Rec PARTNO="9046" CNT="3" SZ="0" CODE_="306219101"/>
+                        <Roll_Parts_Rec PARTNO="1266" CNT="252" SZ="0" CODE_="1033510"/>
+                        <Roll_Parts_Rec PARTNO="617" CNT="12" SZ="0" CODE_="1112400"/>
+                        <Roll_Parts_Rec PARTNO="492" CNT="6" SZ="0" CODE_="1112701"/>
+                    </Roll_Parts>
+                    <Roll_Parts_Cor/>
+                </Rolletes_Rec>
+            </Rolletes>
+            <Order_Parts/>
+        </Orders_Rec>
+    </Orders>
+</Orders_Delivery>
