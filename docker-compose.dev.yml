@@ -1,0 +1,28 @@
+version: '3'
+services:
+  rolgroup-backend:
+    container_name: backend
+    build:
+      context: ./manufacture_platform_django
+      dockerfile: Dockerfile
+    restart: always
+    volumes:
+      - ./manufacture_platform_django/:/usr/src/app/
+    expose:
+      - "8000"
+    ports:
+      - 8000:8000
+    env_file:
+      - ./.env.dev    
+  # rolgroup-frontend:
+  #   container_name: manufacture-platform-frontend
+  #   restart: always
+  #   build:
+  #     context: ./client
+  #     dockerfile: Dockerfile
+  #   volumes:
+  #     - ./node_modules:/usr/src/app/node_modules
+  #   ports:
+  #     - 3000:3000
+  #   environment:
+  #     - CHOKIDAR_USEPOLLING=true
